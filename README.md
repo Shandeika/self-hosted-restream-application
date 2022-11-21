@@ -42,7 +42,7 @@ To use this Self Hosted Alternative to Restream. You need.
 
          $ git clone https://github.com/mjhumphrey4/self-hosted-restream-application
 
-4. List all directories to verify that a new `selfhosted-restream` directory is added.
+4. List all directories to verify that a new `selfhosted-restream-application` directory is added.
 
          $ ls
 
