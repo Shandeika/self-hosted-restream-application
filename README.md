@@ -21,7 +21,7 @@ This applicaition is production-ready and can safely be deployed on any of your 
 To use this Self Hosted Alternative to Restream. You need.
 
 * Some basic Skills on using the Linux Shell.
-* Some basic Skills on using Docker.
+* Install [Docker and Docker Compose.](https://techpointmag.com/how-to-install-docker-and-docker-compose/)
 * A Linux Virtual Private Server (VPS).
   > You can deploy one with any of the trusted providers such as DigitalOcean, Vultr, Linode, or Hetzner cloud. For this application, I used a production-ready Docker One Click Applicaiton from the Vultr Marketplace.
 * Install Git on the server (pre-installed on most Linux distributions).
