@@ -1,7 +1,6 @@
 version: "3"
 services:
   web:
-    name: self-hosted-restream
     image: alfg/nginx-rtmp:latest
     ports:
       - "1935:1935"
