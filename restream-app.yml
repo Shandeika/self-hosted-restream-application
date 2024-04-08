@@ -4,7 +4,7 @@ services:
     image: alfg/nginx-rtmp:latest
     ports:
       - "1935:1935"
-      - "8080:80"
+      - "28080:80"
     environment: 
       - STREAM_KEY_TWITCH
       - STREAM_KEY_YOUTUBE
